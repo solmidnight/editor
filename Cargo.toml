@@ -1,0 +1,10 @@
+[package]
+name = "editor"
+version = "0.1.0"
+edition = "2021"
+authors = ["Sol Midnight <sol.midnight@blockglow.com>"]
+description = "hmm..."
+repository = "https://github.com/midnightquark/trader"
+license = "MIT"
+
+[dependencies]
