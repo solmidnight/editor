@@ -1,9 +1,9 @@
 [package]
-name = "editor"
-version = "0.1.0"
+name = "span"
+version = "0.0.1"
 edition = "2021"
 authors = ["Sol Midnight <sol.midnight@blockglow.com>"]
-description = "hmm..."
+description = "Networking crate implementing RAFT-Plus, MLRaft, and potentially hhRaft? hmm..."
 repository = "https://github.com/midnightquark/trader"
 license = "MIT"
 
